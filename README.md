@@ -1,5 +1,6 @@
 Additional implementation of BIKE (Bit Flipping Key Encapsulation) 
 ------------------------------------------------------------------
+(--master is the original file, and the development branch is modified using Gaussian and m4ri algorithms.)
 
 This package is an "Additional Optimized" implementation of the 
 Key Encapsulation Mechanism (KEM) [BIKE](https://bikesuite.org). 
